@@ -1,13 +1,4 @@
 
-/**
- * 
- * HeartTransplantDriver
- * 
- * Use this class to test HeartTransplant's methods.
- * 
- * @author Haolin (Daniel) Jin
- */
-
 public class HeartTransplantDriver {
 	    public static void main (String[] args) {
 
