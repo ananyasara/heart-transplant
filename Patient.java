@@ -1,14 +1,4 @@
 
-/**
- * 
- * Patient class represents a patient with a heart disease either 
- * waiting for a heart transplant surgery or that hava already undergone
- * surgery.
- * 
- * @author Ana Paula Centeno
- * @author Haolin (Daniel) Jin
- */
-
 public class  Patient {
     //Heart Condition Cause Code 
     public static final int CAUSE_VIRAL                = 0;
